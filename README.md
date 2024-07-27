@@ -1,1 +1,4 @@
 # EnterHere...
+Name :
+Password  :
+Email :
